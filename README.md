@@ -5,32 +5,36 @@
   </a>
 </div>
 
- 
- <img align="right" alt="" height="190px" src="">
 
  #
 
-<p align="center">Sou estudante de Engenharia de Software na UNINTER e atualmente atuo como Analista de Suporte Pleno no Tribunal de Justiça de São Paulo. Estou estudando Python e JavaScript, sempre em busca de atualizar meus conhecimentos. Gosto muito de Inteligência Artificial e explorar maneiras de aplicá-la para desenvolver soluções inovadoras e práticas. Meu objetivo é unir tecnologia e criatividade para resolver problemas reais de forma eficiente.
+<p align="center">Sou estudante de Engenharia de Software na UNINTER e atualmente atuo como Analista de Suporte Pleno no Tribunal de Justiça de São Paulo. Estou estudando Python, Julia e JavaScript, sempre em busca de atualizar meus conhecimentos. Gosto muito de Inteligência Artificial e explorar maneiras de aplicá-la para desenvolver soluções inovadoras e práticas. Meu objetivo é unir tecnologia e criatividade para resolver problemas reais de forma eficiente.
 
  #
-  <!-- Stack-->
- <h3 align="left">Stack</h3>
- <div>  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
+ <img align="right" alt="" height="190px" src="./study.gif">
+ <div align="left">
  <!-- Contatos -->
 <div> 
-<h3 align="left">Entre em contato!</h3>
+ <h3 align="left">Entre em contato!</h3>
     
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatoandresantiago@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andre-luis-santiago/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/andre.lumos/)
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatoandresantiago@hotmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andre-luis-santiago/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/andre.lumos/)
+ </div>
+    <!-- Stack-->
+ <h3 align="left">Stack</h3>
+ <div>  
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+
+
+
 </div>
+
 
 #
 
