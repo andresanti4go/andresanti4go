@@ -8,7 +8,7 @@
 
  #
 
-<p align="center">Sou estudante de Engenharia de Software na UNINTER e atualmente atuo como Analista de Suporte Pleno no Tribunal de Justiça de São Paulo. Estou estudando Python, Julia e JavaScript, sempre em busca de atualizar meus conhecimentos. Gosto muito de Inteligência Artificial e explorar maneiras de aplicá-la para desenvolver soluções inovadoras e práticas. Meu objetivo é unir tecnologia e criatividade para resolver problemas reais de forma eficiente.
+<p align="center">Sou estudante de Engenharia de Software na UNINTER e atualmente atuo como Analista de Suporte Pleno no Tribunal de Justiça de São Paulo. Estou estudando Python, Julia e desenvolvimento de IA sempre em busca de atualizar meus conhecimentos. Gosto muito de Inteligência Artificial e explorar maneiras de aplicá-la para desenvolver soluções inovadoras e práticas. Meu objetivo é unir tecnologia e criatividade para resolver problemas reais de forma eficiente.
 
  #
  <img align="right" alt="" height="190px" src="./study.gif">
